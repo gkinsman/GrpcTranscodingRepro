@@ -1,5 +1,6 @@
 using Grpc.Core;
 using Api;
+using Contracts;
 
 namespace Api.Services;
 
